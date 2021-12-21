@@ -1,5 +1,5 @@
 # NLP-text_classification_FlaskAPI
-Text Classification using TfidfVectorizer, LinearSVC and creating a front-end using FlaskAPI for predictions online
+### (Text Classification using TfidfVectorizer, LinearSVC and creating a front-end using FlaskAPI for predictions online)
 
 #### Download IMDB movie data set from Hugging Face
 #### Use the training data to build the model
